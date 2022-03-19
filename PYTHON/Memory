@@ -1,0 +1,8 @@
+What is Memory Management
+-consists of Code area-where codes written are temporarily stored
+-
+Variable Area- where the variables or objects are stored
+Heap area- where teh value of the variables or objects are stored. The variables or constants point to the memory where the value is stored
+Free area- additional memory allocated
+Stack area- method or steps of execution
+
